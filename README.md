@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi , I'm Mauricio Seguanes <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NjMwMDUsIm5iZiI6MTc0MzQ2MjcwNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDIzMTE0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkMTBiMWRlYmU2NDFiNjdlZGNmYTViODNjZTdlNTdhODlmYmFhOTBkZTg4Mjg3NTMzZjcyNTA4N2E2N2QwZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WTh6r6_HtskU1ODBVa9kYQWvzR66QUUWwC8idA9cWxE" width="35"></h1>
+<h1 align="center">Hi , I'm Mauricio Seguanes <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NjMwMDUsIm5iZiI6MTc0MzQ2MjcwNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDIzMTE0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkMTBiMWRlYmU2NDFiNjdlZGNmYTViODNjZTdlNTdhODlmYmFhOTBkZTg4Mjg3NTMzZjcyNTA4N2E2N2QwZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WTh6r6_HtskU1ODBVa9kYQWvzR66QUUWwC8idA9cWxE" width="32"></h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NjMwMDUsIm5iZiI6MTc0MzQ2MjcwNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDIzMTE0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyYTU1NDU3ODk0OWI5OTVmZGU3MGU2OGI4YTZiYjNhNDUxMjc2N2Q1OTA3Y2IyNDE2NWQxM2I1ZDc1OGE5MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aUIW0E0soHKov715kvaf3gz-fPs0nn_JULigHH1nDU4" />
 
@@ -16,7 +16,8 @@ I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the progr
 - Outside tech, 📖 I love to read novels, 🎮Playing videogames, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="Seguanesh__@outlook.com">Seguanesh__@outlook.com</a>
 
-## My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> <b> My Skills Include</b>
+
 
 <h4> Languages </h4>
 <span> 
