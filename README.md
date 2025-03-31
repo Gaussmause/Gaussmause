@@ -16,7 +16,7 @@ I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the progr
 - Outside tech, 📖 I love to read novels, 🎮Playing videogames, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="Seguanesh__@outlook.com">Seguanesh__@outlook.com</a>
 
-## My Skills Include
+## My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <h4> Languages </h4>
 <span> 
