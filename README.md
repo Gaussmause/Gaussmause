@@ -36,3 +36,5 @@ I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the progr
 [![](https://github-readme-stats.vercel.app/api?username=Gaussmause&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gaussmause)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Gaussmause&theme=material-palenight)](https://github.com/Gaussmause)
 </div>
+
+
