@@ -31,7 +31,7 @@ I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the progr
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<h2>Github stats:</h2> 
+## <img alt="GIF5" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="30px" /> Github Stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=Gaussmause&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gaussmause)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Gaussmause&theme=material-palenight)](https://github.com/Gaussmause)
