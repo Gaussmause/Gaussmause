@@ -3,7 +3,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30px">&nbsp;***About me***
 
 I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the programming languages that I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Data science, Financia Analyst, and Statistics**
