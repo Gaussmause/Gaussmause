@@ -38,4 +38,5 @@ I am a student of Statistics at UNAL Medellin. Python, R, and HTML are the progr
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Gaussmause&theme=material-palenight)](https://github.com/Gaussmause)
 </div>
 
-
+# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaussmause&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/Gaussmause)
